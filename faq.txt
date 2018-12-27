@@ -4,3 +4,6 @@ location / {
             index  index.html index.htm;
             autoindex on;
         }
+
+for phpmyadmin:
+composer update
